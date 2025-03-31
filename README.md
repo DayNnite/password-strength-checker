@@ -15,3 +15,19 @@ A Python application that checks password strength using both command-line and g
 
 ### Command Line Interface
 Run the following command:
+python password_checker.py
+
+### Graphical User Interface
+Run the following command:
+python password_checker_gui.py
+
+
+## Requirements
+- Python 3.x
+- No additional libraries required (uses standard Tkinter for GUI)
+
+## Future Improvements
+- Add password strength meter
+- Check for common passwords
+- Add password generation feature
+- Implement password storage with encryption
